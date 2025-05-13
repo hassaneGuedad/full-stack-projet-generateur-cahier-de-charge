@@ -1,8 +1,4 @@
-Trae
 
-Used 1 context
-
-preview.tsx 59-59
 
 # Générateur de Cahiers des Charges
 Application mobile et web développée avec React Native et Expo pour la création et la gestion de cahiers des charges professionnels.
